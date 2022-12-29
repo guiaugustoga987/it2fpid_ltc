@@ -122,5 +122,5 @@ self.TEST_MODE = 'lateral'
 #self.TEST_MODE = 'following' 
 ```
 
-The simulations variables are stored on .txt files on Results folder. Each run stores 300 samples for lateral/angular modes and 1600 samples for the following mode. The variables to be stored, number of runs and amount of samples can be changed as needed
+The simulations variables are stored on .txt files on Results folder. Each run stores 300 samples for lateral/angular modes and 1600 samples for the following mode. The variables to be stored, number of runs and amount of samples can be changed as needed.
 
